@@ -1,0 +1,10 @@
+C:\Users\Cagin\source\repos\ipucu\ipucu\bin\Debug\ipucu.exe.config
+C:\Users\Cagin\source\repos\ipucu\ipucu\bin\Debug\ipucu.exe
+C:\Users\Cagin\source\repos\ipucu\ipucu\bin\Debug\ipucu.pdb
+C:\Users\Cagin\source\repos\ipucu\ipucu\obj\Debug\ipucu.csprojResolveAssemblyReference.cache
+C:\Users\Cagin\source\repos\ipucu\ipucu\obj\Debug\ipucu.Form1.resources
+C:\Users\Cagin\source\repos\ipucu\ipucu\obj\Debug\ipucu.Properties.Resources.resources
+C:\Users\Cagin\source\repos\ipucu\ipucu\obj\Debug\ipucu.csproj.GenerateResource.Cache
+C:\Users\Cagin\source\repos\ipucu\ipucu\obj\Debug\ipucu.csproj.CoreCompileInputs.cache
+C:\Users\Cagin\source\repos\ipucu\ipucu\obj\Debug\ipucu.exe
+C:\Users\Cagin\source\repos\ipucu\ipucu\obj\Debug\ipucu.pdb
